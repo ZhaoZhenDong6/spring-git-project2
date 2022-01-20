@@ -12,5 +12,6 @@ public class SpringGitApplication {
         System.out.println("修改2");
         System.out.println("修改3");
         System.out.println("修改4");
+        System.out.println("tom第一次开发");
     }
 }
