@@ -10,6 +10,7 @@ public class SpringGitApplication {
         System.out.println("Hello Git!");
         System.out.println("修改1");
         System.out.println("修改2");
+        System.out.println("修改3");
         System.out.println("修改4");
     }
 }
