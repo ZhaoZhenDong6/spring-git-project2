@@ -9,6 +9,7 @@ public class SpringGitApplication {
                 new ClassPathXmlApplicationContext("applicationContext.xml");
         System.out.println("Hello Git!");
         System.out.println("修改1");
-        System.out.println("分支");
+        System.out.println("修改2");
+        System.out.println("修改3");
     }
 }
